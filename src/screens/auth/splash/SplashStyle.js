@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   spTitle1: {
     fontSize: 40,
     fontWeight: "bold",
-    color: colors.orange,
+    color: colors.blue,
   },
   signUpButton: {
     marginTop: 10,
