@@ -30,7 +30,7 @@ const Splash = () => {
           <SignUpButton title="Sign Up" />
         </View>
         <View style={styles.loginButton}>
-          <LoginButton title="Login" onPress={console.log(`clicked`)} />
+          <LoginButton title="Sign In" onPress={console.log(`clicked`)} />
         </View>
       </View>
     </ScrollView>
